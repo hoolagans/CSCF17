@@ -1,0 +1,5 @@
+create a 15 puzzle solver using hashing to identify 
+if a puzzle has been seen before and then to prune 
+that tree or follow tree of the already found puzzle
+
+need a tree with variable count of nodes
